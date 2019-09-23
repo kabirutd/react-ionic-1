@@ -30,13 +30,13 @@ const Tab1: React.FunctionComponent = () => {
         <IonCard className="welcome-card">
           <img src="/assets/shapes.svg" alt=""/>
           <IonCardHeader>
-            <IonCardSubtitle>Get Started</IonCardSubtitle>
-            <IonCardTitle>Welcome to Ionic</IonCardTitle>
+            <IonCardSubtitle>IONIC PROJECT 1 USING REACT</IonCardSubtitle>
+            <IonCardTitle>Welcome to Ionic Project 1!</IonCardTitle>
           </IonCardHeader>
           <IonCardContent>
             <p>
-              Now that your app has been created, you'll want to start building out features and
-              components. Check out some of the resources below for next steps.
+              Check out contents using Tab One, Tab Two, and Tab Three below.<br/>
+               Also, check out some of the resources below for next steps.
             </p>
           </IonCardContent>
         </IonCard>
