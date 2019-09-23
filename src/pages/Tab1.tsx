@@ -31,7 +31,7 @@ const Tab1: React.FunctionComponent = () => {
           <img src="/assets/shapes.svg" alt=""/>
           <IonCardHeader>
             <IonCardSubtitle>IONIC PROJECT 1 USING REACT</IonCardSubtitle>
-            <IonCardTitle>Welcome to Ionic Project 1!</IonCardTitle>
+            <IonCardTitle>Welcome to Mohammad Kabir's Ionic Project 1!</IonCardTitle>
           </IonCardHeader>
           <IonCardContent>
             <p>
